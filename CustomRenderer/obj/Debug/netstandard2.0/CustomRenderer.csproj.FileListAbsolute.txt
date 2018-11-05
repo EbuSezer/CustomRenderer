@@ -1,0 +1,11 @@
+C:\XamarinProjeleri\CustomRenderer\CustomRenderer\CustomRenderer\bin\Debug\netstandard2.0\CustomRenderer.deps.json
+C:\XamarinProjeleri\CustomRenderer\CustomRenderer\CustomRenderer\bin\Debug\netstandard2.0\CustomRenderer.dll
+C:\XamarinProjeleri\CustomRenderer\CustomRenderer\CustomRenderer\bin\Debug\netstandard2.0\CustomRenderer.pdb
+C:\XamarinProjeleri\CustomRenderer\CustomRenderer\CustomRenderer\obj\Debug\netstandard2.0\CustomRenderer.csprojAssemblyReference.cache
+C:\XamarinProjeleri\CustomRenderer\CustomRenderer\CustomRenderer\obj\Debug\netstandard2.0\CustomRenderer.csproj.CoreCompileInputs.cache
+C:\XamarinProjeleri\CustomRenderer\CustomRenderer\CustomRenderer\obj\Debug\netstandard2.0\CustomRenderer.AssemblyInfoInputs.cache
+C:\XamarinProjeleri\CustomRenderer\CustomRenderer\CustomRenderer\obj\Debug\netstandard2.0\CustomRenderer.AssemblyInfo.cs
+C:\XamarinProjeleri\CustomRenderer\CustomRenderer\CustomRenderer\obj\Debug\netstandard2.0\XamlC.stamp
+C:\XamarinProjeleri\CustomRenderer\CustomRenderer\CustomRenderer\obj\Debug\netstandard2.0\CustomRenderer.dll
+C:\XamarinProjeleri\CustomRenderer\CustomRenderer\CustomRenderer\obj\Debug\netstandard2.0\CustomRenderer.pdb
+C:\XamarinProjeleri\CustomRenderer\CustomRenderer\CustomRenderer\obj\Debug\netstandard2.0\Views\MainPage2.xaml.g.cs
